@@ -25,5 +25,5 @@ My presentation slides and related resources
     - Presentation slides with results of interactive questions available
     
   - Lightning talk : "So you wanna delve into C++?"
-   - Presentation slides available.
-   - Youtube video to be published.
+     - Presentation slides available.
+     - Youtube video to be published.
